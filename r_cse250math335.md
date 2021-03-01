@@ -13,9 +13,9 @@ By the Middle Ages, the Christian influence on naming practices was pervasive. E
 
 ### Challenge questions
 
-- [] How does your name at your birth year compare to its use historically?
-- [] If you talked to someone named Brittany on the phone, what is your guess of their age? What ages would you not guess?
-- [] Mary, Martha, Peter, and Paul are all Christian names. From 1920 - 2000, compare the name usage of each of the four names.
-- [] Think of a unique name from a famous movie. Plot that name and see how increases line up with the movie release.
+- [ ] How does your name at your birth year compare to its use historically?
+- [ ] If you talked to someone named Brittany on the phone, what is your guess of their age? What ages would you not guess?
+- [ ] Mary, Martha, Peter, and Paul are all Christian names. From 1920 - 2000, compare the name usage of each of the four names.
+- [ ] Think of a unique name from a famous movie. Plot that name and see how increases line up with the movie release.
 
 You can see the full assignment for CSE 250 - https://byuistats.github.io/CSE250-Hathaway/projects/project-1/.
