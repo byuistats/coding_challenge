@@ -18,4 +18,12 @@ By the Middle Ages, the Christian influence on naming practices was pervasive. E
 - [ ] Mary, Martha, Peter, and Paul are all Christian names. From 1920 - 2000, compare the name usage of each of the four names.
 - [ ] Think of a unique name from a famous movie. Plot that name and see how increases line up with the movie release.
 
+### Challenge request
+
+- [ ] Make a private copy of this repo using the template button.
+- [ ] Invite the GitHub user hathawayj to your repo.
+- [ ] Use the Tidyverse to complete the challenge.
+- [ ] Save your .R script and images to your repository.
+- [ ] Submit a link to your private repository.
+
 You can see the full assignment for CSE 250 - https://byuistats.github.io/CSE250-Hathaway/projects/project-1/.
