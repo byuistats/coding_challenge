@@ -8,10 +8,10 @@ Over the campfire, you and a friend get into a debate about which college in Uta
 
 ### Tasks
 
-[ ] Use pandas and Altair in our Python code.
-[ ] Find the 4-5 different data sets that you will need to show full college and player names as well as their annual earnings.
-[ ] Make a convincing chart showing how professional baseball player earnings that played baseball at BYU compared to the players from other Utah schools.
-[ ] Save your .py script and image to your repository.
+- [ ] Use pandas and Altair in our Python code.
+- [ ] Find the 4-5 different data sets that you will need to show full college and player names as well as their annual earnings.
+- [ ] Make a convincing chart showing how professional baseball player earnings that played baseball at BYU compared to the players from other Utah schools.
+- [ ] Save your .py script and image to your repository.
 
 ## Background
 
