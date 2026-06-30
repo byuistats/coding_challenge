@@ -11,4 +11,5 @@ Our data science program uses R, Python, and SQL heavily. DS 250 is taught entir
 - [DS 150 Challenge](tableau_DS150.md)
 
 ## Submission
-Provide a Quarto markdown file as the completed file you submit.
+
+For the DS 250 and DS 350 challenges, provide a link to GitHub repository with a quarto file (and it's rendered output) that contains the completed challenge. For the DS 150 challenge you will submit a Tableau workbook file.
