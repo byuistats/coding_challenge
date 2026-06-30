@@ -1,13 +1,13 @@
 # coding_challenge
 
-A short coding challenge for interview candidates of DS 250, DS 350, and Math 335.
+A short coding challenge for interview candidates of DS 150, DS 250, and DS 350.
 
 ## Challenge Description
 
-Our data science program uses R, Python, and SQL heavily.  DS 250 is taught entirely in Python with some SQL. DS 350/Math 335 is taught entirely in R.  Both courses require the faculty to have some proficiency with GitHub.
+Our data science program uses R, Python, and SQL heavily. DS 250 is taught entirely in Python with some SQL. DS 350 is taught entirely in R. Both courses require the faculty to have some proficiency with GitHub. DS 150 is primarily geared toward non-majors and is taught using Tableau.
 
-- [Math 335/CSE 350 Challenge](r_cse250math335.md)
-- [CSE 250 Challenge](python_cse250.md)
+- [DS 350 Challenge](r_DS350.md)
+- [DS 250 Challenge](python_DS250.md)
 
 ## Submission
 Provide a Quarto markdown file as the completed file you submit.
