@@ -8,6 +8,7 @@ Our data science program uses R, Python, and SQL heavily. DS 250 is taught entir
 
 - [DS 350 Challenge](r_DS350.md)
 - [DS 250 Challenge](python_DS250.md)
+- [DS 150 Challenge](tableau_DS150.md)
 
 ## Submission
 Provide a Quarto markdown file as the completed file you submit.
